@@ -1486,8 +1486,8 @@ figure.dotted-bg:before {
   line-height: 40px;
   position: relative;
   z-index: 1;
-  -webkit-box-shadow: 0px 30px 0 -20px #d63447;
-  box-shadow: 0px 30px 0 -20px #d63447;
+  -webkit-box-shadow: 0px 30px 0 -20px #34d667;
+  box-shadow: 0px 30px 0 -20px #34d667;
 }
 
 @media (max-width: 991.98px) {
